@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: bank-service
+
+server:
+  port: 8081
+
+custom:
+  message: "Bank service running in DEV"
